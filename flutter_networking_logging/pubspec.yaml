@@ -26,6 +26,7 @@ dependencies:
   # Connect networking
   dio: ^3.0.9
 
+  logger: ^0.8.3
 dev_dependencies:
   flutter_test:
     sdk: flutter
